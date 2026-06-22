@@ -19,7 +19,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Conall](https://github.com/XRS-001/)           | [ Update 0](https://docs.fileverse.io/d/02001110001b#k=0YDBXHva0sJIlCC108YBhFhNP_4PFWtxqoGaQOqcFhM) |        |        |
 | [Cristian](https://github.com/conache/)         | [ Update 0](https://hackmd.io/@conache/rywURItWzx)                                                  | [ Update 1](https://hackmd.io/@conache/B1KnVvrfGe)        |        |
 | [Ifeoluwa](https://github.com/owanikin)         |                                                   | [ Update 1](https://hackmd.io/@ZpBFaS-NSO-5Xkdm4jwolg/BJO7iYpWMx)       |        |
-| [Daniel](https://github.com/perfogic)           | [Update 0](https://hackmd.io/@rY6uGs23RIKpNYTQc4mY_g/SkvmzE0Zfe)                                    |        |        |
+| [Daniel](https://github.com/perfogic)           | [Update 0](https://hackmd.io/@perfogic/SkvmzE0Zfe)                                    | [Update 1](https://hackmd.io/@perfogic/HJKmk8WGze) |        |
 | [Ivan](https://github.com/IvanAnishchuk)        | [Update 0](https://ivananishchuk.github.io/eth-protocol-fellowship/updates/2026-06-17-week-0/)      |        |        |
 | [Jack CC](https://github.com/JackCC703/)        | [Update 0](https://hackmd.io/@jackcc/epf7-week0)                                                    |        |        |
 | [Jeff](https://www.github.com/jeffoodchain)     | [Update 0](https://hackmd.io/BEM-xj5dRBeh3MGHYIvYeQ)                                                |        |        |
